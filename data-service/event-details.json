@@ -1,0 +1,239 @@
+[
+	   {
+        "category": "2",
+        "name": "Dexterity Unbounded",
+        "imageurl": "img/events/onsite/dexterity.png",
+        "hovertext": "Dexterity unbounded",
+		"modelNo": "1",
+		"desc": "Being a geek doesn’t count here. This event is tailor made to test your cognitive skills and deftness in the most simplest of tasks. All it takes is agility, good use of memory and logic to claim victory. The most fun-filled team event of all is here to put your team spirit to test. Get ready for an exhilarating ride through brain wrecking rounds to reach the zenith of your glory!",
+		"contact": "Narayanan      9042210114"
+      },
+	   {
+        "category": "2",
+        "name": "Debugging",
+        "imageurl": "img/events/onsite/s11.jpg",
+        "hovertext": "",
+		"modelNo": "2",
+		"desc": "“It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free.”  -Steve Mc Connell The art of programming lies not just in typing lines and lines of code. Debugging is in itself a challenge that lets you identify your difference of opinion with the compiler. Get ready to sort out things with the compiler – Identify all the errors and your relationship becomes successful! You really don’t want a conflict with your compiler do you??",
+		"contact":""
+      },
+      {
+        "category": "2",
+        "name": "Linux-Mate",
+        "imageurl": "img/events/onsite/linuxmate.jpg",
+        "hovertext": "",
+		"modelNo": "3",
+		"desc": "Crazy about Linux? This event is all set to test your knowledge on everything about Linux. Show us your expertise on Torvalds’ creation. Bring out the Linux Lunatic in you and you might walk out wearing the “Red Hat”!",
+		"contact": ""
+      },
+      {
+        "category": "2",
+        "name": "Net-wiz",
+        "imageurl": "img/events/onsite/net.jpg",
+        "hovertext": "NET_WIZ",
+		"modelNo": "4",
+		"desc": "NetWiz is all set to drive the neurons in you crazy. Join this event to enter a tortuous world of network puzzles and emerge the winner. All you need to do is follow the protocols, keep your headers calm and make sure your packets of knowledge don’t get lost!",
+		"contact": ""
+      },
+      {
+        "category": "2",
+        "name": "Sequel Scholars",
+        "imageurl": "img/events/onsite/s4.jpg",
+        "hovertext": "SEQUEL",
+		"modelNo": "5",
+		"desc": "Do you have it in you to work with and manipulate the most powerful entity that drives a world facing an explosion of it? Yes, we are talking about data and databases. Get ready to trigger the gray cells in your mind, avoid being deadlocked and complete the query quest.",
+		"contact": ""
+      },
+      {
+        "category": "2",
+        "name": "Hackathon",
+        "imageurl": "img/events/onsite/s3.jpg",
+        "hovertext": "HACKATHON",
+		"modelNo": "6",
+		"desc": "Tired of being ethical? Well, here’s the chance to bring out the villain in you. Go on a hacking spree. And we’ll reward you for that",
+		"contact": ""
+      },
+      {
+        "category": "2",
+        "name": "Web Designing",
+        "imageurl": "img/events/onsite/s8.png",
+        "hovertext": "Web Designing",
+		"modelNo": "7",
+		"desc": "An irresistible event where creativity holds the upper hand. Show us what you can do with anything from the basic HTML to the fascinating JQueries. What are you waiting for? Join the event to compete with the most creative designers from around the nation. Amaze us with your designs and be crowned the victor.",
+		"contact": ""
+      },
+	  {
+        "category": "2",
+        "name": "OSPC",
+        "imageurl": "img/events/onsite/s7.jpg",
+        "hovertext": "OSPC",
+		"modelNo": "8",
+		"desc": "Yet another programming contest to test the programmer in you. Show us that you've got all that it takes to solve the problems with speed and precision",
+		"contact": ""
+      },
+	  {
+        "category": "2",
+        "name": "DumbC",
+        "imageurl": "img/events/onsite/s10.jpg",
+        "hovertext": "",
+		"modelNo": "9",
+		"desc": "A fun event for all the C maniacs out there. Act out the words given to you and guess them. The more right ones you strike, the merrier! We techies know how to have fun in our own way, don't we??",
+		"contact": ""
+      },
+	  {
+        "category": "2",
+        "name": "MU-Pro",
+        "imageurl": "img/events/onsite/s12.jpg",
+        "hovertext": "Helll",
+		"desc": "Hello this is MU PRO",
+		"modelNo": "10",
+		"desc": "“A great life isn’t about huge things. It’s about small things that make a big difference!” Physics has taught us that all it takes is an electron to move to drive even the biggest of machines. Can you make an impact at the micro level and make wonders happen? Can you make your microprocessor dance according to your whims? Then this is just the event for you. Show us you can manipulate the itsy-bitsy processors and prove that you can make the biggest change just by controlling the smallest things!",
+		"contact": ""
+      },
+	  {
+        "category": "2",
+        "name": "Coffee with java",
+        "imageurl": "img/events/onsite/s13.jpg",
+        "hovertext": "",
+		"modelNo": "11",
+		"desc": "An exclusive round purely dedicated to Java Freaks. Get ready to drown yourself inside out in Gosling’s baby creation. This event is all set to test your expertise in JAVA – be it applets, swings, AWT and just everything that makes JAVA so tantalizing. Drop by and have your share of caffeine. After all, this event requires you to be stimulated!",
+		"contact": ""
+      },
+	  {
+        "category": "2",
+        "name": "Reverse Coding",
+        "imageurl": "img/events/onsite/s14.jpg",
+        "hovertext": "",
+		"modelNo": "12",
+		"desc": "“Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.”  ? Alan Perlis Wanna try something different? How ‘bout doing things in reverse for a change? Reverse Coding is just the event for you. Reverse engineer a program to get the desired specifications",
+		"contact": ""
+      },
+	  {
+        "category": "1",
+        "name": "PS I love u",
+        "imageurl": "img/events/online/ps.jpeg",
+        "hovertext": "",
+		"modelNo": "13",
+		"desc": "“Reality leaves a lot to the imagination” - John lennon Are you a PS fanatic? Are you good with colors and designs? Well, here’s the best platform you can ever get to showcase your “creative skills”. Pour out every ounce of the creative “you” in your posters and your well on your way to glory. Mail your designs to us and throw us off guard with your Spielberg ideas. Who knows? We might actually end up discovering a new Spielberg in the making.",
+		"contact": ""
+      },
+      {
+        "category": "1",
+        "name": "Code Venture",
+        "imageurl": "img/events/online/codeventure.png",
+        "hovertext": "",
+		"modelNo": "14",
+		"desc": "Come join us in MIT to venture into the world of programming. Special event for all the coders with a special aptitude for cracking your way through the toughest problems with the simplest solutions.",
+		"contact": ""
+      },
+      {
+        "category": "1",
+        "name": "Math Musketeers",
+        "imageurl": "img/events/online/math.jpg",
+        "hovertext": "",
+		"modelNo": "15",
+		"desc": "“Math may not teach us how to add love or minus hate! But it gives us every reason to hope that every problem has a solution!” Can you make life a whole lot simpler by reducing the biggest problems to an equation of reasons that started it? Then sharpen your pencils and get ready for the challenge. Because it all comes down to attacking every problem rather than accepting defeat",
+		"contact": ""
+      },
+      {
+        "category": "1",
+        "name": "OLPC",
+        "imageurl": "img/events/online/olpc.jpg",
+        "hovertext": "Online Programming Competition",
+		"modelNo": "16",
+		"desc": "Here’s the most anticipated event for all you geeks out there. An adrenaline filled event where every second counts. Get a chance to compete with the top programmers of the nation and make it to the top of the leaderboard with the best possible solutions. Show us what you got in your geeky cerebrum and walk away with honors",
+		"contact": ""
+      },
+      {
+        "category": "1",
+        "name": "Shutters",
+        "imageurl": "img/events/online/shutters.jpg",
+        "hovertext": "",
+		"modelNo": "17",
+		"desc": "“Sometimes the simplest pictures are the hardest to get!” -Neil Leifer Time to take out your DSLRs. Nature beckons you. Capture anything that awes you. Play with lights. The one that touches a chord with many takes away the prize. Explore your familiar surroundings for the unfamiliar. Enjoy the beauty of everything around you. You’re just a click away from euphoria",
+		"contact": ""
+      }, 
+      {
+        "category": "1",
+        "name": "Google Trotter",
+        "imageurl": "img/events/online/trotter.jpg",
+        "hovertext": "",
+		"modelNo": "18",
+		"desc": "This online treasure hunt is designed to unlock the Vasco-da-Gama in you. Unlock clues, find treasures and fight your way through the most complicated mazes to emerge the winner.",
+		"contact": ""
+      },
+      {
+        "category": "3",
+        "name": "How Stuff Works",
+        "imageurl": "img/events/general/howstuff.jpg",
+        "hovertext": "",
+		"modelNo": "19",
+		"desc": "“The most important thing is not to stop questioning. Curiosity has its own reason for existing!” -Albert Einstein Do you marvel at how the most complex phenomenon in our Universe is driven by simple laws of Science? Watching Discovery channel is finally going to pay off. Can you uncover the hidden logic behind what makes a bulb glow to how the Universe was created? This event is meant especially to bring out the Archimedes in you. Logical reasoning will take you to great heights and this is just the right place for you to squeeze the juice out of your cerebrum.",
+		"contact": ""
+      },
+	  {
+        "category": "3",
+        "name": "B-Quiz",
+        "imageurl": "img/events/general/bplan.jpg",
+        "hovertext": "",
+		"modelNo": "20",
+		"desc": "If a plan doesn`t work, change the plan but NEVER the goal!`Good at planning? Are you a strategic team player? This event is made just for the entrepreneur in you. Amaze us with your problem solving and managerial skills. Show us that you`re good with people. Confront crisis with your innate talents. Claim your prize by your pragmatic and effective approach",
+		"contact": ""
+      },
+      {
+        "category": "3",
+        "name": "Gaming",
+        "imageurl": "img/events/general/gaming.jpg",
+        "hovertext": "",
+		"modelNo": "21",
+		"desc": "“I am a gamer, not because I don’t have a life. But because I chose to have many!” Tired of juggling around with your PS2 and XBOXs? Come to MIT to witness the most aggressive of all battles. Join us with your comrades to battle the most belligerent opponents in Counter Strike. Speed definitely thrills but kills. Do you have it in you to do it without getting killed? Bring out the car racer in you and your passion for an adrenaline pumped ride battling your opponents in NFS.",
+		"contact": ""
+      },
+      {
+        "category": "3",
+        "name": "Treasure Hunt",
+        "imageurl": "img/events/general/treasurehunt.jpg",
+        "hovertext": "",
+		"modelNo": "22",
+		"desc": "Do you love treasures?? Do you have the enthusiasm and the ebullience to go on a never ending search for the most elusive trophies? Join the plunder with your friends, go on a clue – finding mission and unravel the mysteries hidden in plain sight. Get ready to be mystified and battle an army of clues to reach the most coveted prize of the event!",
+		"contact": ""
+      },
+      {
+        "category": "3",
+        "name": "Math-O-Mania",
+        "imageurl": "img/events/general/mathomania.jpg",
+        "hovertext": "",
+		"modelNo": "23",
+		"desc": "“Math may not teach us how to add love or minus hate! But it gives us every reason to hope that every problem has a solution!” The essence of math is not to make simple things complicated but to make complicated things simple. Even the most complicated problem can be solved with the simplest solution. Can you make life a whole lot simpler by reducing the biggest problems to an equation of reasons that started it? Then sharpen your pencils and get ready for the challenge. Because it all comes down to attacking every problem rather than accepting defeat",
+		"contact": ""
+      },
+      {
+        "category": "3",
+        "name": "General Quiz",
+        "imageurl": "img/events/general/generalquiz.jpg",
+        "hovertext": "",
+		"modelNo": "24",
+		"desc": "“It’s not a silly question if you can’t answer it!” -Jostein Gaarder Sharpen your brains. Time is of the essence. For each second lost, you’re an answer away from glory. Join us with your friends in the most thrilling and the most intellectual event of Samhita ‘14. Be ready to dodge the ammos of questions fired at you and you may emerge the conqueror of brains!",
+		"contact": ""
+      },
+	  {
+        "category": "3",
+        "name": "Paper Presentation",
+        "imageurl": "img/events/general/paper.jpg",
+        "hovertext": "",
+		"modelNo": "25",
+		"desc": "“If at first an idea does not sound absurd, then there is no hope for it!” -Albert Einstein Here’s a chance to share your “Eureka moment” with us. Got cool new ideas that will help make our world better? Share it with us. Let the world know what you got in you. Present your ideas and give us a chance to be inspired by your novel ideas",
+		"contact": ""
+      },
+      {
+        "category": "3",
+        "name": "Google Geek",
+        "imageurl": "img/events/general/googlegeek.jpg",
+        "hovertext": "",
+		"modelNo": "26",
+		"desc": "This online hunt is designed to unlock the Vasco-da-Gama in you. Unlock clues, find google clues and fight your way through the most complicated mazes to emerge the winner",
+		"contact": ""
+      }
+     
+
+]

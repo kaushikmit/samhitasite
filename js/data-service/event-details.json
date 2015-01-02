@@ -1,0 +1,136 @@
+[
+      {
+        "category": "3",
+        "name": "Paper Presentation",
+        "imageurl": "img/events/general/paper.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "3",
+        "name": "Google Geek",
+        "imageurl": "img/events/general/googlegeek.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Linux-Mate",
+        "imageurl": "img/events/onsite/linuxmate.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Web Design",
+        "imageurl": "img/events/onsite/webdesign.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Linux-Mate",
+        "imageurl": "img/events/onsite/linuxmate.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Dexterity",
+        "imageurl": "img/events/onsite/dexterity.png",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Debugging",
+        "imageurl": "img/events/onsite/debugging.png",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Web Design",
+        "imageurl": "img/events/onsite/webdesign.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "1",
+        "name": "Code Venture",
+        "imageurl": "img/events/online/codeventure.png",
+        "hover-text": ""
+      },
+      {
+        "category": "1",
+        "name": "Math Musketeers",
+        "imageurl": "img/events/online/math.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "1",
+        "name": "OLPC",
+        "imageurl": "img/events/online/olpc.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "PS I ♥ U",
+        "imageurl": "img/events/onsite/ps.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "1",
+        "name": "Shutters",
+        "imageurl": "img/events/online/shutters.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "3",
+        "name": "B-Plan",
+        "imageurl": "img/events/general/ps.jpg",
+        "hover-text": ""
+      },
+
+      {
+        "category": "3",
+        "name": "How Stuff Works",
+        "imageurl": "img/events/general/howstuff.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "3",
+        "name": "Gaming",
+        "imageurl": "img/events/general/gaming.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "3",
+        "name": "Treasure Hunt",
+        "imageurl": "img/events/general/treasurehunt.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "3",
+        "name": "Math-O-Mania",
+        "imageurl": "img/events/general/mathomania.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "3",
+        "name": "General Quiz",
+        "imageurl": "img/events/general/generalquiz.jpg",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Dexterity",
+        "imageurl": "img/events/onsite/dexterity.png",
+        "hover-text": ""
+      },
+      {
+        "category": "2",
+        "name": "Debugging",
+        "imageurl": "img/events/onsite/debugging.png",
+        "hover-text": ""
+      },
+      {
+        "category": "1",
+        "name": "Trotter",
+        "imageurl": "img/events/online/trotter.jpg",
+        "hover-text": ""
+      }
+
+]

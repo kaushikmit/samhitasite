@@ -1,0 +1,29 @@
+{
+  "name": "Samhita",
+  "version": "1.0",
+  "homepage": "https://github.com/dhakchianandan/samhita",
+  "authors": [
+    "Dhakchianandan <dhakchianandan@gmail.com>"
+  ],
+  "description": "Samhita'15 Website",
+  "main": "index.html",
+  "keywords": [
+    "Samhita",
+    "ITA",
+    "MIT",
+    "Anna",
+    "University",
+    "Information",
+    "Technology",
+    "Technical",
+    "Symposium"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
